@@ -1,0 +1,7 @@
+C:\Users\resource\source\repos\ProjetoLivrosLista\ProjetoLivrosLista\bin\Debug\ProjetoLivrosLista.exe.config
+C:\Users\resource\source\repos\ProjetoLivrosLista\ProjetoLivrosLista\bin\Debug\ProjetoLivrosLista.exe
+C:\Users\resource\source\repos\ProjetoLivrosLista\ProjetoLivrosLista\bin\Debug\ProjetoLivrosLista.pdb
+C:\Users\resource\source\repos\ProjetoLivrosLista\ProjetoLivrosLista\obj\Debug\ProjetoLivrosLista.csprojAssemblyReference.cache
+C:\Users\resource\source\repos\ProjetoLivrosLista\ProjetoLivrosLista\obj\Debug\ProjetoLivrosLista.csproj.CoreCompileInputs.cache
+C:\Users\resource\source\repos\ProjetoLivrosLista\ProjetoLivrosLista\obj\Debug\ProjetoLivrosLista.exe
+C:\Users\resource\source\repos\ProjetoLivrosLista\ProjetoLivrosLista\obj\Debug\ProjetoLivrosLista.pdb
